@@ -1,6 +1,6 @@
 package com.hogwarts.po;
 
-import com.hgwarts.po.contact.Member;
+import com.hogwarts.po.contact.Member;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 

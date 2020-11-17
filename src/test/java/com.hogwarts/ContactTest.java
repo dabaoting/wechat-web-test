@@ -3,10 +3,10 @@ package com.hogwarts;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
-import com.hgwarts.po.ContactPage;
-import com.hgwarts.po.MainPage;
-import com.hgwarts.po.contact.Department;
-import com.hgwarts.po.contact.Member;
+
+import com.hogwarts.po.ContactPage;
+import com.hogwarts.po.MainPage;
+import com.hogwarts.po.contact.Member;
 import net.bytebuddy.implementation.bind.annotation.Argument;
 import org.junit.After;
 import org.junit.jupiter.api.*;
