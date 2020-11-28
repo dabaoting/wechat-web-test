@@ -1,0 +1,9 @@
+steps:
+  - browser: chrome
+  - url: https://work.weixin.qq.com/wework_admin/frame
+  - implicitlyWait: 5
+  # 元素操作
+  - elements: { id: com.tencent.wework:id/i6i}
+  - click: {}
+  # 关闭浏览器
+  - close: true

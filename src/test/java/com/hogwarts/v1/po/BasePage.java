@@ -1,4 +1,4 @@
-package com.hogwarts.po;
+package com.hogwarts.v1.po;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

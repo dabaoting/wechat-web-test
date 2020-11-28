@@ -1,4 +1,4 @@
-package com.hogwarts.po.contact;
+package com.hogwarts.contact;
 
 import java.util.List;
 
